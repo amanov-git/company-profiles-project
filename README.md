@@ -31,6 +31,6 @@ Install dependencies with npm install
 
 Configure environment variables (e.g., database URL, authentication secrets)
 
-Start the backend server: npm start
+Start the backend server: pnpm run dev
 
-Start the frontend app: npm run dev
+Start the frontend app: pnpm run dev
