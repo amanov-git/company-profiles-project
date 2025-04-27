@@ -34,5 +34,3 @@ Configure environment variables (e.g., database URL, authentication secrets)
 Start the backend server: npm start
 
 Start the frontend app: npm run dev
-
-Open the application at http://localhost:3000
