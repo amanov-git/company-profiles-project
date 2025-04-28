@@ -34,3 +34,5 @@ Configure environment variables (e.g., database URL, authentication secrets)
 Start the backend server: pnpm run dev
 
 Start the frontend app: pnpm run dev
+
+The project code considered to be optimized for better developer experience.
